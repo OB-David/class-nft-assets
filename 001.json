@@ -1,0 +1,15 @@
+{
+  "name": "Class NFT #001",
+  "description": "Crypto Finance Course NFT",
+  "image": "https://OB-David.github.io/class-nft-assets/001.jpg",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    },
+    {
+      "trait_type": "Number",
+      "value": 1
+    }
+  ]
+}
