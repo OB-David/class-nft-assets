@@ -1,0 +1,10 @@
+{
+  "name": "stewie",
+  "description": "stewie — Crypto Finance Course NFT",
+  "image": "https://OB-David.github.io/class-nft-assets/stewie.png",
+  "attributes": [
+    { "trait_type": "Course", "value": "Crypto Finance" },
+    { "trait_type": "Number", "value": 2 },
+    { "trait_type": "Character", "value": "stewie" }
+  ]
+}
