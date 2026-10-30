@@ -1,0 +1,11 @@
+{
+  "name": "Peter",
+  "description": "Superman Peter Griffin",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/93c98789-3727-4964-9ebe-367e685f5412/peter.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
