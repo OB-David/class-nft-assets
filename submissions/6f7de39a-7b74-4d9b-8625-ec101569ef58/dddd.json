@@ -1,0 +1,11 @@
+{
+  "name": "dddd",
+  "description": "It's Diane's first NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/6f7de39a-7b74-4d9b-8625-ec101569ef58/dddd.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
