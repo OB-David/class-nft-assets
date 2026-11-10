@@ -1,0 +1,11 @@
+{
+  "name": "stock",
+  "description": "一块矗立海上的岩石",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/b038a503-9391-4db7-9c51-75709423bb77/stock.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
