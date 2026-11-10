@@ -1,0 +1,11 @@
+{
+  "name": "Hanhanbao",
+  "description": "I am very Hanhan",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/20e7bc63-6599-4294-b196-bc146c71ef30/hanhanbao.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
