@@ -1,0 +1,11 @@
+{
+  "name": "Z",
+  "description": "my nft",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/4cb5d8b2-20ee-4e18-a08e-3e7e9598e037/z.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
