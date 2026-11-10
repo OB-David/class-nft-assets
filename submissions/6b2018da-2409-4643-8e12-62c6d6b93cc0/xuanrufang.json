@@ -1,0 +1,11 @@
+{
+  "name": "XuanruFang",
+  "description": "Crypto Finance Course NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/6b2018da-2409-4643-8e12-62c6d6b93cc0/xuanrufang.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
