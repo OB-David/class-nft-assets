@@ -1,0 +1,11 @@
+{
+  "name": "Waaagh",
+  "description": "Crypto Finance Course NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/bf286ad4-b43c-435b-930c-9a605f6a15b8/waaagh.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
