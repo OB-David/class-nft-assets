@@ -1,0 +1,11 @@
+{
+  "name": "Mochi the Fudan Cat",
+  "description": "An orange cartoon cat holding an FDU coin, minted for Crypto Finance Fall 2026.",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/04adf64d-768e-444a-8438-4000c453b1fc/mochi-the-fudan-cat.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
