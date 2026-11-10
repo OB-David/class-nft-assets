@@ -1,0 +1,11 @@
+{
+  "name": "Olivia's NFT",
+  "description": "A cute and fluffy white Maltese puppy with a sweet smile, capturing a simple moment of happiness.",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/2e473b4d-5279-402a-8084-a710741b47d5/olivia-s-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
