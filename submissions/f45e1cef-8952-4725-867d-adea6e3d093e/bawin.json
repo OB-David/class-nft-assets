@@ -1,0 +1,11 @@
+{
+  "name": "Bawin",
+  "description": "Get a job",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/f45e1cef-8952-4725-867d-adea6e3d093e/bawin.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
