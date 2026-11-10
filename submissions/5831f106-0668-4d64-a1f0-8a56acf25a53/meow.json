@@ -1,0 +1,11 @@
+{
+  "name": "Meow",
+  "description": "It is a really cute cat.",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/5831f106-0668-4d64-a1f0-8a56acf25a53/meow.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
