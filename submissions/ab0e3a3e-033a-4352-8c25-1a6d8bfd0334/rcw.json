@@ -1,0 +1,11 @@
+{
+  "name": "RCW",
+  "description": "Crypto Finance Course NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/ab0e3a3e-033a-4352-8c25-1a6d8bfd0334/rcw.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
