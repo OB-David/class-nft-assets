@@ -1,0 +1,11 @@
+{
+  "name": "Rubbles",
+  "description": "My puppies",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/8b6b0203-b2e7-4c3a-815d-0238b9487daf/rubbles.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
