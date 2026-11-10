@@ -1,0 +1,11 @@
+{
+  "name": "Picture",
+  "description": "Crypto Finance Course NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/9686b6db-0e26-49e4-9b67-99aaf816bd8d/picture.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
