@@ -1,0 +1,11 @@
+{
+  "name": "BoredLizard",
+  "description": "bored lizard",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/3ceace67-d41b-4877-b60f-71f0bf8dbceb/boredlizard.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
