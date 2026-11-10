@@ -1,0 +1,11 @@
+{
+  "name": "Doubao loves Naiwa",
+  "description": "Crypto Finance Course NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/1d3b25c6-9854-44b2-a077-779121d2431a/doubao-loves-naiwa.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
