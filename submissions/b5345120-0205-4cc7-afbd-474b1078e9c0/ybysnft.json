@@ -1,0 +1,11 @@
+{
+  "name": "YBYsNFT",
+  "description": "Crypto Finance Course NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/b5345120-0205-4cc7-afbd-474b1078e9c0/ybysnft.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
