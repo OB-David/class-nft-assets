@@ -1,0 +1,11 @@
+{
+  "name": "Noodles",
+  "description": "Crypto Finance Course NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/4d41cff0-9418-4592-80af-a603730d7940/noodles.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
