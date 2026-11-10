@@ -1,0 +1,11 @@
+{
+  "name": "Wenhao NFT",
+  "description": "Wenhao creates it",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/c4affca5-0537-4b53-923f-ac1b4115194d/wenhao-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
