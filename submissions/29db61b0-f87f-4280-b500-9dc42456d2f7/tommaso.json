@@ -1,0 +1,11 @@
+{
+  "name": "tommaso",
+  "description": "classNFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/29db61b0-f87f-4280-b500-9dc42456d2f7/tommaso.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
