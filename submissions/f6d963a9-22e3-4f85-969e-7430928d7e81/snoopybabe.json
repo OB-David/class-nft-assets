@@ -1,0 +1,11 @@
+{
+  "name": "Snoopybabe",
+  "description": "my fav character",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/f6d963a9-22e3-4f85-969e-7430928d7e81/snoopybabe.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
