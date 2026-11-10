@@ -1,0 +1,11 @@
+{
+  "name": "Junyan's First NFT",
+  "description": "my first NFT",
+  "image": "https://ob-david.github.io/class-nft-assets/submissions/bed9746a-0d45-4a36-a507-87d77f4ec6be/junyan-s-first-nft.png",
+  "attributes": [
+    {
+      "trait_type": "Course",
+      "value": "Crypto Finance"
+    }
+  ]
+}
